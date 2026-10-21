@@ -9,6 +9,9 @@
             for (int i = 0; i < num; i++)
             {
                 Console.WriteLine("hi");
+                Console.WriteLine("hi");
+                Console.WriteLine("hi");
+                Console.WriteLine("hi");
             }
 
         }
